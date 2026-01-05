@@ -7,16 +7,6 @@ I enjoy designing clean architectures, optimizing databases, and shipping produc
 
 ---
 
-## 💼 Professional Snapshot  
-
-- 💻 **Software Development Engineer – Java Backend**  
-  **TEK ANTHEM TECHNOLOGIES PVT. LTD.** (Nov 2024 – Present)  
-- ⚙️ Built and optimized **microservice-based systems** handling **50K+ monthly transactions**
-- 📈 Improved **API & reporting performance by ~40%** via PostgreSQL query tuning
-- 🧠 Strong believer in **clean code, ownership, and end-to-end responsibility**
-
----
-
 ## 🛠️ Tech Stack  
 
 ### **Backend**
@@ -44,38 +34,8 @@ I enjoy designing clean architectures, optimizing databases, and shipping produc
 ### **AI & Data**
 - LLM-powered assistants  
 - AI-driven automation workflows  
-- Document Intelligence & OCR pipelines  
-
----
-
-## 🧩 Featured Projects  
-
-### 🔹 **Dynamic Analytics & Dashboard Builder**
-- Config-driven datasets stored in DB  
-- SQL execution with JSONB parameters  
-- Weekly / Monthly / Quarterly aggregations  
-- Widget-based dashboards with permissions  
-
-**Tech:** Spring Boot, PostgreSQL, React, Redis  
-
----
-
-### 🔹 **Multi-Tenant Code Management System**
-- Centralized lookup engine for enterprises  
-- Tenant-specific + global code groups  
-- Attribute-driven dynamic APIs  
-
-**Tech:** Spring Boot, PostgreSQL, JSONB  
-
----
-
-### 🔹 **Smart Team Collaboration Hub**
-- Real-time chat & workflows  
-- AI-powered summaries and task routing  
-- Event-driven architecture  
-
-**Tech:** Go (Gin + gRPC), React, Redis, Kafka  
-
+- Document Intelligence & OCR pipelines
+- 
 ---
 
 ### 🔹 **AI-Powered Teacher Assistant (In Progress)**
@@ -116,8 +76,8 @@ I enjoy designing clean architectures, optimizing databases, and shipping produc
 ## 📫 Let’s Connect  
 
 - 📧 Email: **akashbanerjee2779@gmail.com**  
-- 💼 LinkedIn: *linkedin.com/in/akash-banerjee*  
-- 🧑‍💻 GitHub: *github.com/akashbanerjee*  
+- 💼 LinkedIn: *linkedin.com/in/akash-banerjee-4bab1020b*  
+- 🧑‍💻 GitHub: *github.com/akashbanerjee2779*  
 
 ---
 
