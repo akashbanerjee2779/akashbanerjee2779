@@ -1,84 +1,18 @@
-# Hi 👋, I'm Akash Banerjee  
+# 💫 About Me:
+I'm a full stack developer<br>I work as a SDE in  TEKANTHEM TECHNOLOGIES PVT LTD<br>I built end-to-end software products with optimized solutions.<br>Software Development Engineer with 1.5+ years of experience building scalable backend and full-stack applications<br>using Java 17, Spring Boot, and microservices. Strong in REST API design, PostgreSQL/SQL optimization, dynamic<br>reporting, and Android development, with hands-on experience in CI/CD, Docker, and Kubernetes. Solid foundation<br>in DSA, OOP, DBMS, Operating Systems, and Agile delivery.
 
-🚀 **Full Stack Java Developer | Backend Systems Engineer | AI-Driven Product Builder**  
 
-I’m a **B.Tech CSE graduate (2025)** with **1.5+ years of industry experience**, passionate about building **scalable backend systems**, **data-heavy platforms**, and **real-world AI-powered applications**.  
-I enjoy designing clean architectures, optimizing databases, and shipping production-ready features that actually get used.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_k_y_s_t_a_r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-banerjee-4bab1020b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Akash Banerjee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashbanerjee2779@gmail.com) 
 
----
-
-## 🛠️ Tech Stack  
-
-### **Backend**
-- Java 17, Spring Boot, Spring Security  
-- REST APIs, Microservices Architecture  
-- JPA / Hibernate, Native SQL  
-
-### **Databases**
-- PostgreSQL, MySQL  
-- JSONB-based dynamic schemas  
-- Query optimization & analytics pipelines  
-
-### **Caching & Messaging**
-- Redis (Caching, TTL strategies)  
-- Kafka / RabbitMQ (Event-driven design)
-
-### **Frontend**
-- React.js, HTML5, CSS3, JavaScript  
-- Dashboard-driven UI architectures  
-
-### **Cloud & DevOps**
-- AWS (EC2, Redis Cluster)  
-- Docker, CI/CD basics  
-
-### **AI & Data**
-- LLM-powered assistants  
-- AI-driven automation workflows  
-- Document Intelligence & OCR pipelines
-- 
----
-
-### 🔹 **AI-Powered Teacher Assistant (In Progress)**
-- Smart timetabling & attendance  
-- Unified student profiles  
-- AI assistant for daily operations  
-
-**Tech:** React, Spring Boot / FastAPI, AI Agents  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akashbanerjee2779&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akashbanerjee2779&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashbanerjee2779&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=akashbanerjee2779&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 What I Care About  
-
-- Designing **systems that scale**
-- Solving **real business problems**, not toy problems
-- Writing code that others can **read, extend, and trust**
-- Learning **distributed systems, AI agents, and backend internals**
-
----
-
-## 📊 GitHub Focus Areas  
-
-- Backend system design  
-- Performance optimization  
-- AI-assisted automation  
-- Real-world production patterns  
-
----
-
-## 🎓 Education  
-
-🎓 **B.Tech – Computer Science & Engineering**  
-**MCKV Institute of Engineering (MAKAUT / WBUT)**  
-📈 CGPA: **9.27 / 10**
-
----
-
-## 📫 Let’s Connect  
-
-- 📧 Email: **akashbanerjee2779@gmail.com**  
-- 💼 LinkedIn: *linkedin.com/in/akash-banerjee-4bab1020b*  
-- 🧑‍💻 GitHub: *github.com/akashbanerjee2779*  
-
----
-
-⭐ *Always open to impactful backend roles, system design discussions, and challenging problems.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
